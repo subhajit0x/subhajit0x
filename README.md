@@ -1,17 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Subhajit Saha</h1>
+<h3 align="center">Security Engineer @ Klar 🥷🏽 , Previously @Blockfi @Signzy</h3> <br>
+  <pre>       </pre> <strong> Old Profile - </strong> https://github.com/subhajitsaha0x
 
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=subhajit0x&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="subhajit Saha" /> 
   </p>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
+      
 
 - 🌱 I’m currently learning Web3 Security / Building long sustainable Appsec Programs in Startups
 
@@ -41,13 +42,6 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajit0x&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="subhajit0x" 
-    bg_color=#808080/></p>
-
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajit0x&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="adam-pw" /></p>
@@ -61,5 +55,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=subhajit0x&bg_color=0d1117&text_color=ffffff" alt="subhajit0x" /></a> </p> -->
       
-<p align="left"> <a href="https://twitter.com/subhajitsaha0x" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="subhajit hacker" /></a> </p>
+
