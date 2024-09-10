@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Subhajit </h1>
-<h3 align="center">Security Engineer @ Klar 🥷🏽 , Previously @Blockfi @Signzy</h3> <br>
+<h3 align="center">Security Engineer</h3> <br>
   <pre>       </pre> <strong> Old Profile - </strong> https://github.com/subhajitsaha0x
 
 <br>
@@ -14,11 +14,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
       
 
-- 🌱 I’m currently learning Web3 Security / Building long sustainable Appsec Programs in Startups
-
-- 📫 How to reach me **hey@subhajitsaha.com**
-
-- ⚡ Fun fact :- Cole & Kendrick 🎵 are the reasons to live.
 
 <br>
 
